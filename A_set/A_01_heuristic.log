@@ -1,0 +1,28 @@
+Reset all parameters
+Set parameter Seed to value 42
+Set parameter Threads to value 4
+Set parameter NumericFocus to value 1
+Set parameter Heuristics to value 0.95
+Set parameter MIPFocus to value 1
+Set parameter BranchDir to value 1
+Set parameter Method to value 1
+Set parameter MIPGap to value 0.01
+Set parameter Presolve to value 0
+Set parameter TimeLimit to value 9.9851923121346363e+02
+Gurobi Optimizer version 12.0.0 build v12.0.0rc1 (linux64 - "Linux Mint 21")
+
+CPU model: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+
+Non-default parameters:
+TimeLimit  9.9851923121346363e+02
+MIPGap  0.01
+Method  1
+BranchDir  1
+Heuristics  0.95
+MIPFocus  1
+NumericFocus  1
+Presolve  0
+Seed  42
+Threads  4
+
